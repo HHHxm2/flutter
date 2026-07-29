@@ -1,0 +1,81 @@
+engine/src/flutter/txt/BUILD.gn
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 65-66
+engine/src/flutter/txt/src/skia/paragraph_skia.h
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 21-22,52-53,88
+engine/src/flutter/lib/ui/dart_ui.cc
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 240
+packages/flutter/lib/src/widgets/text_selection.dart
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 551-557,561,567
+packages/flutter/lib/src/widgets/editable_text.dart
+  s_c0cfa49ffc4764::t_e6799b67ac0d6f 3600-3605
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 1149-1152,5142-5147,6138,6178,6220-6221,6266-6267,6321
+engine/src/flutter/txt/src/skia/paragraph_builder_skia.h
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 8-11,43-51,56-57,61-65
+engine/src/flutter/lib/ui/text/paragraph.h
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 36
+engine/src/flutter/lib/ui/text/paragraph.cc
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 61-64
+engine/src/flutter/txt/src/txt/text_direction_util.cc
+  s_c0cfa49ffc4764::t_2e6d53a0e5bfae 27-28
+  s_c0cfa49ffc4764::t_6ea37abf4c0ac7 44
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 1-26,29-43,45-48
+engine/src/flutter/lib/ui/text.dart
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 1943,2006-2009,2079,2093,2163,3064-3081,3253-3258
+  s_c0cfa49ffc4764::t_9cc654a54ae83a 1955
+  s_c0cfa49ffc4764::t_00e179eab789a8 3259
+packages/flutter/lib/src/painting/text_style.dart
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 1395,1420
+engine/src/flutter/txt/src/skia/paragraph_skia.cc
+  s_c0cfa49ffc4764::t_f2c27c4fa79cd5 375-376
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 208-209,212-213,373-374
+engine/src/flutter/txt/src/txt/paragraph_style.cc
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 34-36,38,40
+packages/flutter/lib/src/painting/text_painter.dart
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 298-302,649,703,886-928,1137,1285-1296,1300,1304,1537-1542
+  s_c0cfa49ffc4764::t_853073cd1f203a 1315-1351
+packages/flutter/lib/src/rendering/paragraph.dart
+  s_c0cfa49ffc4764::t_da5a8b060c9808 1404-1409
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 340-341,384,408,613-651,1044-1049,1983,2056,2561,2813,2971,2976
+  s_c0cfa49ffc4764::t_b8e2629e099751 599-603,605
+  s_c0cfa49ffc4764::t_0cc729631a3fe6 1619-1626
+engine/src/flutter/lib/ui/text/paragraph_builder.cc
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 8,94,102,248-256
+engine/src/flutter/txt/src/skia/paragraph_builder_skia.cc
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 8-9,14,42-50,52,59-64,70-74,84-90,96-115,120-126,138-182,184-210,259-261
+engine/src/flutter/txt/src/txt/paragraph.h
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 197-212
+engine/src/flutter/txt/src/txt/text_direction_util.h
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 1-16,18-20,22-24,26-37
+  s_c0cfa49ffc4764::t_91203fdbe0a143 17
+  s_c0cfa49ffc4764::t_a20b70376531c7 21
+  s_c0cfa49ffc4764::t_5c7355b65e340b 25
+engine/src/flutter/txt/src/txt/paragraph_style.h
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 9,86-87,97-100
+packages/flutter/lib/src/widgets/text.dart
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 618-622,784
+packages/flutter/lib/src/rendering/editable.dart
+  s_c0cfa49ffc4764::t_9ec6f4c2bd0ca5 1459-1465
+  s_c0cfa49ffc4764::t_163bb9551252a7 876
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 287-288,364,803,834-837,846-875
+  s_c0cfa49ffc4764::t_bda3792b716330 1494-1498
+packages/flutter/lib/src/widgets/basic.dart
+  s_c0cfa49ffc4764::t_30a94dfdd70102 6505
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 6502-6504,6506-6509,6571-6575,6651-6653,6673-6675
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "3.27.1714",
+  "base_commit_sha": "b2d9d64e3e84cbb9d7562c02dd2cc77872cd426a",
+  "prompts": {},
+  "sessions": {
+    "s_c0cfa49ffc4764": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05458d272fferBr82hs7Hn1dUO",
+        "model": "MiniMax-M3"
+      },
+      "human_author": "HHHxm2 <huangxingming2@huawei.com>",
+      "total_deletions": 75
+    }
+  }
+}
