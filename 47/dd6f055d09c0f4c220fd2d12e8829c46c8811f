@@ -1,5 +1,7 @@
 engine/src/flutter/lib/ui/text/paragraph_builder.cc
   s_c0cfa49ffc4764::t_2d3c6101fa7c62 8,113,263-268,270-271
+  s_4d3fb3da4e2da3::t_9aec82d3a2adcd 102-105
+  s_4d3fb3da4e2da3::t_c92031f0a7681a 269
 engine/src/flutter/txt/BUILD.gn
   s_c0cfa49ffc4764::t_2d3c6101fa7c62 65-66
 engine/src/flutter/txt/src/txt/text_direction_util.h
@@ -58,6 +60,11 @@ engine/src/flutter/txt/src/txt/text_direction_util.cc
 engine/src/flutter/lib/ui/text.dart
   s_c0cfa49ffc4764::t_2d3c6101fa7c62 1959,2025,2035,2117,2133,3112-3129,3301-3306
   s_c0cfa49ffc4764::t_00e179eab789a8 3307
+  s_4d3fb3da4e2da3::t_3b9e7e09651093 1973
+  s_4d3fb3da4e2da3::t_ea5e903253403d 2033-2034
+  s_4d3fb3da4e2da3::t_cc264a28856518 2209
+packages/flutter/lib/src/widgets/text_selection.dart
+  s_4d3fb3da4e2da3::t_ae74ff60d286ae 559
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -65,6 +72,20 @@ engine/src/flutter/lib/ui/text.dart
   "base_commit_sha": "47dd6f055d09c0f4c220fd2d12e8829c46c8811f",
   "prompts": {},
   "sessions": {
+    "s_4d3fb3da4e2da3": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e3b7b68d3ffectrgLIZcTCikqm",
+        "model": "deepseek-v4-pro"
+      },
+      "human_author": "HHHxm2 <253355071@qq.com>",
+      "custom_attributes": {
+        "stats_model_totals": "{\"deepseek-v4-pro\":{\"additions\":13,\"deletions\":47}}",
+        "stats_total_additions": "13",
+        "stats_total_deletions": "47",
+        "stats_turn_models": "{\"t_3b9e7e09651093\":\"deepseek-v4-pro\",\"t_8199937dc70645\":\"deepseek-v4-pro\",\"t_9aec82d3a2adcd\":\"deepseek-v4-pro\",\"t_9df1d021d735c8\":\"deepseek-v4-pro\",\"t_ae74ff60d286ae\":\"deepseek-v4-pro\",\"t_c92031f0a7681a\":\"deepseek-v4-pro\",\"t_cc264a28856518\":\"deepseek-v4-pro\",\"t_ea5e903253403d\":\"deepseek-v4-pro\"}"
+      }
+    },
     "s_c0cfa49ffc4764": {
       "agent_id": {
         "tool": "opencode",
