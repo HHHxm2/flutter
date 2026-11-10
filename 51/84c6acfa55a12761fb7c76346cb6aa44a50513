@@ -1,0 +1,104 @@
+engine/src/flutter/txt/src/skia/paragraph_builder_skia.h
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 8-11,45-53,58-59,63-67
+packages/flutter/lib/src/painting/text_painter.dart
+  s_c0cfa49ffc4764::t_853073cd1f203a 1362-1398
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 299-303,674,730,915-957,1183,1332-1343,1347,1351,1584-1589
+engine/src/flutter/txt/src/skia/paragraph_skia.cc
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 211-212,215-216,376-377
+  s_c0cfa49ffc4764::t_f2c27c4fa79cd5 378-379
+engine/src/flutter/txt/src/txt/paragraph_style.h
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 90-91,110-113
+packages/flutter/lib/src/widgets/text.dart
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 620-624,792
+packages/flutter/lib/src/painting/text_style.dart
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 1394,1420
+engine/src/flutter/lib/ui/text/paragraph_builder.cc
+  s_4d3fb3da4e2da3::t_9aec82d3a2adcd 102-105
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 8,113,263-268,270-271
+  s_4d3fb3da4e2da3::t_c92031f0a7681a 269
+engine/src/flutter/txt/src/txt/paragraph_style.cc
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 34-36,38,40
+packages/flutter/lib/src/widgets/text_selection.dart
+  s_4d3fb3da4e2da3::t_ae74ff60d286ae 559
+packages/flutter/lib/src/rendering/paragraph.dart
+  s_4d3fb3da4e2da3::t_916efa6203e910 342
+  s_c0cfa49ffc4764::t_da5a8b060c9808 1420-1425
+  s_c0cfa49ffc4764::t_b8e2629e099751 600-604,606
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 341,384,408,614-652,1060-1065,1999,2072,2577,2829,2987,2992
+  s_c0cfa49ffc4764::t_0cc729631a3fe6 1635-1642
+packages/flutter/lib/src/widgets/basic.dart
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 6567-6569,6571-6574,6637-6641,6720-6722,6743-6745
+  s_c0cfa49ffc4764::t_30a94dfdd70102 6570
+engine/src/flutter/lib/ui/dart_ui.cc
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 240
+engine/src/flutter/txt/src/skia/paragraph_skia.h
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 21-22,52-53,88
+engine/src/flutter/txt/src/txt/text_direction_util.h
+  s_c0cfa49ffc4764::t_5c7355b65e340b 25
+  s_c0cfa49ffc4764::t_a20b70376531c7 21
+  s_c0cfa49ffc4764::t_91203fdbe0a143 17
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 1-16,18-20,22-24,26-37
+engine/src/flutter/txt/src/txt/text_direction_util.cc
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 1-26,29-43,45-48
+  s_c0cfa49ffc4764::t_2e6d53a0e5bfae 27-28
+  s_c0cfa49ffc4764::t_6ea37abf4c0ac7 44
+packages/flutter/lib/src/rendering/editable.dart
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 287,364,796,827-830,839-868
+  s_c0cfa49ffc4764::t_bda3792b716330 1487-1491
+  s_4d3fb3da4e2da3::t_92bb37dc8920ac 288
+  s_c0cfa49ffc4764::t_163bb9551252a7 869
+  s_c0cfa49ffc4764::t_9ec6f4c2bd0ca5 1452-1458
+engine/src/flutter/txt/src/txt/paragraph.h
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 197-212
+packages/flutter/lib/src/widgets/editable_text.dart
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 1172-1175,5190-5195,6195,6235,6277-6278,6323-6324,6378
+  s_c0cfa49ffc4764::t_e6799b67ac0d6f 3648-3653
+engine/src/flutter/lib/ui/text.dart
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 1959,2035,2117,2133,3112-3129,3301-3306
+  s_4d3fb3da4e2da3::t_ea5e903253403d 2033-2034
+  s_4d3fb3da4e2da3::t_3b9e7e09651093 1973
+  s_c0cfa49ffc4764::t_00e179eab789a8 3307
+  s_4d3fb3da4e2da3::t_cc264a28856518 2209
+  s_4d3fb3da4e2da3::t_ef60d357191e56 2032
+engine/src/flutter/lib/ui/text/paragraph.cc
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 61-64
+engine/src/flutter/txt/BUILD.gn
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 65-66
+engine/src/flutter/txt/src/skia/paragraph_builder_skia.cc
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 8-9,14,42-50,52,59-64,70-74,84-90,96-115,120-126,138-182,184-210,259-261
+engine/src/flutter/lib/ui/text/paragraph.h
+  s_c0cfa49ffc4764::t_2d3c6101fa7c62 36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.8",
+  "base_commit_sha": "5184c6acfa55a12761fb7c76346cb6aa44a50513",
+  "prompts": {},
+  "sessions": {
+    "s_4d3fb3da4e2da3": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e3b7b68d3ffectrgLIZcTCikqm",
+        "model": "deepseek-v4-pro"
+      },
+      "human_author": null,
+      "custom_attributes": {
+        "stats_model_totals": "{\"deepseek-v4-pro\":{\"additions\":2,\"deletions\":2}}",
+        "stats_total_additions": "2",
+        "stats_total_deletions": "2",
+        "stats_turn_models": "{\"t_916efa6203e910\":\"deepseek-v4-pro\",\"t_92bb37dc8920ac\":\"deepseek-v4-pro\"}"
+      }
+    },
+    "s_c0cfa49ffc4764": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05458d272fferBr82hs7Hn1dUO",
+        "model": "MiniMax-M3"
+      },
+      "human_author": "HHHxm2 <huangxingming2@huawei.com>",
+      "custom_attributes": {
+        "stats_total_deletions": "75"
+      }
+    }
+  }
+}
